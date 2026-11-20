@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# The original 1080p video is distributed through GitHub Releases.
+media/*_original.mp4
