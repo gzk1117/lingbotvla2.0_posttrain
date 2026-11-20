@@ -1,4 +1,6 @@
 *.md text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
 *.pdf binary
 *.mp4 binary
 *.gif binary
